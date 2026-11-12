@@ -1,0 +1,6 @@
+/relay
+/relay.exe
+/bin/
+*.test
+*.out
+.env
